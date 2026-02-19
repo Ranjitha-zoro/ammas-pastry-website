@@ -4,7 +4,7 @@ Amma's Pastry is a modern and responsive bakery website built using HTML, CSS, a
 The website showcases delicious pastries, cakes, and desserts with a clean and user-friendly design.
 
 ## 🚀 Live Demo
-https://yourusername.github.io/ammas-pastry/
+https://ranjitha-zoro.github.io/ammas-pastry-website/
 
 ## ✨ Features
 - Fully responsive design
@@ -19,6 +19,4 @@ https://yourusername.github.io/ammas-pastry/
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
-## live Demo
-https://6992ec1187f5c94b141efc18--voluble-kitsune-9f09ce.netlify.app/
+
